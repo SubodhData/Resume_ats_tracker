@@ -1,0 +1,9 @@
+subodhleadse_db_user
+
+iJs7RcorYGCwTeVX
+
+mongodb+srv://subodhleadse_db_user:iJs7RcorYGCwTeVX@cluster0.0x54ei.mongodb.net/?appName=Cluster0
+
+cohere_cicJmGqmYnrSLGLURsuOYfMlAO2RfXQWv4DsPwrM20mAH8
+
+aws account passsword = Qy8n:TT@3'#bc3#
